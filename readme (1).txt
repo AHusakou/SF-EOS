@@ -1,0 +1,1 @@
+﻿The access to SF-EOS is granted by request, which should be sent to gusakov@mbi-berlin.de or dmitry.zimin@phys.chem.ethz.ch . You will be provided with a password which is needed to extract the .zip archive, after which you can follow the manual.
